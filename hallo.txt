@@ -2,3 +2,4 @@ New Text
 New line
 
 Something for merging from the feature branch
+More stuff to merge from the feature branch
