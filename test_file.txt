@@ -2,4 +2,3 @@ Nice message
 Das ist meine zweite Aenderung!
 
 Das ist meine dritte Aenderung!
-Changes to test restore: Staging area.
