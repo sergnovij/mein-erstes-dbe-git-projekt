@@ -1,1 +1,4 @@
 New Text
+New line
+
+Something for merging from the feature branch
