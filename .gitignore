@@ -1,0 +1,5 @@
+# Temporäre Dateien
+*.tmp
+
+# Zwischenspeicher-Ordner
+cache/
