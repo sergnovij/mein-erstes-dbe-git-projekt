@@ -1,4 +1,5 @@
-New Text
+Kontakt: Max Mustermann
+
 Something for merging from the feature branch
 More stuff to merge from the feature branch
 
