@@ -15,5 +15,3 @@ jobs:
     steps:
       - name: Datum anzeigen
         run: date
-      - name: Absichtlich scheitern
-        run: exit 1
