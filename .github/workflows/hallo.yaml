@@ -4,8 +4,6 @@ jobs:
   hallo:
     runs-on: ubuntu-latest
     steps:
-      - name: Projekt herunterladen
-        uses: actions/checkout@v4
       - name: Dateien anzeigen
         run: ls
       - name: Gruss ausgeben
