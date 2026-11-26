@@ -4,6 +4,8 @@ jobs:
   hallo:
     runs-on: ubuntu-latest
     steps:
+      - name: Show directory
+        run: pwd
       - name: Dateien anzeigen
         run: ls
       - name: Gruss ausgeben
