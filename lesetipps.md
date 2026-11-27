@@ -3,4 +3,4 @@
 - https://git-scm.com
 - https://docs.github.com/de
 - https://www.dbe.academy
-- https://docs.github.com/de/diese-seite-fehlt
+- https://docs.github.com/de/actions
