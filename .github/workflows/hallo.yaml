@@ -1,7 +1,7 @@
 name: Hallo Pipeline
 on: [push, workflow_dispatch]
   pull_request:
-  branches: [main]
+    branches: [main]
 jobs:
   hallo:
     runs-on: ubuntu-latest
